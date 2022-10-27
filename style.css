@@ -527,7 +527,7 @@ footer .social a:hover {
 /* tudo o que tem @ é uma 'regra'*/
 /*========== MEDIA QUERIES=======*/
 /* large devices:1200>  */
-@media (min-width: 1200px) {
+@media (min-width: 600px) {
   /* reusable classes */
   .container {
     max-width: 1120px; /*limite da pagina*/
